@@ -18,7 +18,7 @@
     dct:alternative "DDC";
     schema:isBasedOn <https://www.wikidata.org/wiki/Q48460> ;
     dct:issued "2020-02-24"^^xsd:date ;
-    dct:modified "2020-02-24"^^xsd:date ;
+    dct:modified "2020-10-01"^^xsd:date ;
     vann:preferredNamespacePrefix "ddc" ;
     vann:preferredNamespaceUri "https://w3id.org/zdb/ddc/" ;
     skos:hasTopConcept :n000 ,
